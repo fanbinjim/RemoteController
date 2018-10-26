@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BatteryView">
+        <attr name="battery_power" format="integer"/>
+        <attr name="battery_power_color" format="color"/>
+        <attr name="battery_status" format="integer"/>
+    </declare-styleable>
+</resources>
